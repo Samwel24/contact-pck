@@ -15,5 +15,12 @@
         "psr-4": {
             "Dreamaker\\Contact\\": "src/"
         }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Dreamaker\\Contact\\ContactServiceProvider"
+            ]
+        }
     }
 }
