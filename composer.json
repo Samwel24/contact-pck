@@ -20,6 +20,7 @@
         "laravel": {
             "providers": [
                 "Dreamaker\\Contact\\ContactServiceProvider"
+                
             ]
         }
     }
