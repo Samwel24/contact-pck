@@ -7,6 +7,7 @@
 ## Table of Contents
 
 - [Install](#install)
+- [Integration](#integration)
 - [Documentation](#documentation)
 - [License](#license)
 
