@@ -1,8 +1,8 @@
 # Contact Us Form Package for laravel
 
-[![Issues](https://img.shields.io/github/issues/Samwel24/contact.svg)](https://github.com/Samwel24/contact/issues)
-[![Forks](https://img.shields.io/github/forks/Samwel24/contact.svg)](https://github.com/Samwel24/contact/network)
-[![License](https://img.shields.io/github/license/Samwel24/contact.svg)](https://github.com/Samwel24/contact)
+[![Issues](https://img.shields.io/github/issues/Samwel24/contact-pck.svg)](https://github.com/Samwel24/contact-pck/issues)
+[![Forks](https://img.shields.io/github/forks/Samwel24/contact-pck.svg)](https://github.com/Samwel24/contact-pck/network)
+[![License](https://img.shields.io/github/license/Samwel24/contact-pck.svg)](https://github.com/Samwel24/contact-pck)
 
 ## Table of Contents
 
