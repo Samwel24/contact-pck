@@ -59,7 +59,7 @@ then now create a migration table called contact
  
  ```
  return [
-    'send_email_to' => 'sammyandrew44@gmail.com'
+    'send_email_to' => 'youremail@domain.com'
 ];
 ```
 
